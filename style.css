@@ -1,0 +1,182 @@
+.box{
+    background-color: azure;
+    border: 5px, solid,black;
+    margin: 10px;
+     padding: 10px;
+    display: flex;
+    width: auto;
+}
+.heading{
+    border: 2px,solid;
+    background-image: linear-gradient( rgb(39, 39, 87), rgb(226, 113, 113));
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+ .container{
+    background-color: aquamarine;
+    width: 350px;
+    height: 480px;
+  display: grid;
+  grid-template-columns: auto, auto, auto;
+  grid-template-rows: auto, auto, auto ;
+  gap: 10px;
+  border: 5px, solid,  rgb(39, 39, 87);
+ padding: 10px;
+}
+
+.one{
+    width: auto;
+    height: 80px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+}
+.two{
+    width:auto;
+    height:70px;
+    background-color: rgb(39, 39, 87);
+   grid-column: 2/4;
+}
+.three{
+    width:auto;
+    height:70px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 2/4;
+   
+}
+
+.four{
+    width: auto;
+    height: 150px;;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/2;
+    grid-row: 2/4
+    
+}
+
+.five{
+    width:auto;
+    height: 150px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+
+}
+.six{
+    width:auto;
+    height: 50px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+
+}
+.flexbox{
+    background-color: aquamarine;
+    width: 350px;
+    height: 480px;
+  display: grid;
+  grid-template-columns: auto, auto, auto;
+  grid-template-rows: auto, auto, auto ;
+  gap: 10px;
+  border: 5px, solid, rgb(226, 113, 113);
+  margin: 10px;
+  padding: 10px;
+}
+.item1{
+    width: auto;
+    height:80px;
+    background-color:  rgb(226, 113, 113);
+    grid-column: 1/4; 
+   
+}
+.item2{
+    width:auto;
+    height:70px;
+    background-color: rgb(226, 113, 113);
+   grid-column: 2/4;
+}
+.item3{
+    width: auto;
+    height:70px;
+    background-color: rgb(226, 113, 113);
+    grid-column:2/4;
+}
+
+.item4{
+    width: auto;
+    height: 150px;
+    background-color: rgb(226, 113, 113);
+    grid-column: 1/2;
+    grid-row: 2/4
+ 
+}
+.item5{
+    width: auto;
+    height: 150px;
+    background-color:  rgb(226, 113, 113);
+    grid-column: 1/4;
+
+}
+.item6{
+    width:auto;
+    height: 50px;
+    background-color: rgb(226, 113, 113);
+    grid-column: 1/4;
+}
+.grid{
+    background-color: aquamarine;
+    width: 350px;
+    height: 480px;
+  display: grid;
+  grid-template-columns: auto, auto, auto;
+  grid-template-rows: auto, auto, auto ;
+  gap: 10px;
+  border: 5px, solid,  rgb(39, 39, 87);
+  color:azure;
+  margin: 10px;
+  padding: 10px;
+  font-size: larger;
+  text-align: center;
+  
+}
+.a{
+    width: auto;
+    height: 80px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+}
+.b{
+    width:auto;
+    height:70px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 2/4;
+}
+.c{
+    width:auto;
+    height:70px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 2/4;
+}
+.x{
+    width: auto;
+    height: 150px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/2;
+    grid-row: 2/4;
+    
+}
+.y{
+    width: auto;
+    height: 150px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+
+}
+.z{
+    width:auto;
+    height: 50px;
+    background-color: rgb(39, 39, 87);
+    grid-column: 1/4;
+
+}
+
